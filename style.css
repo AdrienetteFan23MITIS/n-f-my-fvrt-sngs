@@ -1,0 +1,25 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    background-color: rgb(55, 16, 16);
+}
+
+p {
+    line-height: 2; color: green;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
